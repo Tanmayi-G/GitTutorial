@@ -1,4 +1,4 @@
 # GitTutorial
 
 - T says hello
--Attempt to make a merge conflict
+-Attempt to make a merge conflict happen
